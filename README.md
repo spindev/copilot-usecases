@@ -5,4 +5,4 @@
 - [Code Translation](./code-translation/calculator.ts)
 - [Code Completion](./code-completion/EmployeeController.cs)
 
-All of the examples were created from GitHub Copilot.
+All of the examples were created with the help of GitHub Copilot.
